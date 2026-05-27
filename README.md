@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Shreya Trivedi 👋</h1>
 
-<!--
-**shreyatrivedi20/shreyatrivedi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Frontend Developer · UI Enthusiast · ML Explorer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://portfolio-nine-blond-42.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/shreya-it24/">LinkedIn</a> ·
+  <a href="mailto:trivedishreya317@gmail.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a frontend developer focused on building clean, functional web experiences. Currently deepening my frontend skills while actively exploring the machine learning landscape — always curious, always building.
+
+---
+
+## 🛠 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+---
+
+## 🚀 Currently Working On
+
+**UPSC News Hub** — A curated news platform for UPSC aspirants.
+
+🔗 [upsc-news-hub.vercel.app](https://upsc-news-hub.vercel.app/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyatrivedi20&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyatrivedi20&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyatrivedi20&theme=minimal&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 📬 Connect
+
+- 🌐 [Portfolio](https://portfolio-nine-blond-42.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreya-it24/)
+- 📧 [trivedishreya317@gmail.com](mailto:trivedishreya317@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyatrivedi20&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
