@@ -46,10 +46,10 @@ I'm a frontend developer focused on building clean, functional web experiences. 
 
 ---
 
-## 📈 Activity Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyatrivedi20&theme=minimal&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyatrivedi20&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -65,4 +65,3 @@ I'm a frontend developer focused on building clean, functional web experiences. 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyatrivedi20&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
