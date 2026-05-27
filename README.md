@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Shreya Trivedi 👋</h1>
 
 <p align="center">
@@ -40,16 +41,13 @@ I'm a frontend developer focused on building clean, functional web experiences. 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyatrivedi20&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyatrivedi20&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyatrivedi20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyatrivedi20&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyatrivedi20&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=shreyatrivedi20&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
